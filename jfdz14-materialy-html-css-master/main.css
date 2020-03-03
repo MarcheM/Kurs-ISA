@@ -3,29 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 .list{
     width: 100%;
     list-style: none;
     padding: 8px;
     
 }
-
 .list__element{
     border-bottom: 2px solid #f2f2f2;
 }
-
 .hotel{
     width: 100%;
     display: flex;
 }
-
  .hotel__img{
      max-width: 200px;
      height: auto;
      border-radius: 8px;
  }
-
  .header{
     font-family: 'Libre Baskerville', Arial, serif;
  }
@@ -40,3 +35,4 @@
  .hotel__location{
      font-family: 'Source Sans Pro', Arial, serif;
  }
+ 
